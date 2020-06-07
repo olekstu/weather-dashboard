@@ -1,0 +1,11 @@
+tr {
+  height: 40px;
+}
+
+tr:nth-of-type(odd) {
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+td {
+  padding: 0 !important;
+}
